@@ -1,0 +1,30 @@
+{
+  "name": "identify-items-pf2e",
+  "title": "Identify Items for PF2e",
+  "description": "A module to facilitate the identification of unidentified items.",
+  "author": "slate",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.6",
+  "compatibleCoreVersion": "0.7.9",
+    "packs": [
+    {
+      "label": "Identify Items",
+      "entity": "Macro",
+      "name": "identify-items-for-pf2e",
+      "path": "./packs/identify-items-for-pf2e.db",
+      "system": "pf2e",
+      "package": "identify-items-pf2e"
+    }
+  ],
+  "esmodules": [],
+  "styles": [],
+  "socket": false,
+  "systems": ["pf2e"],
+  "url": "https://github.com/zarmstrong/fvtt-identify-items-pf2e",
+  "manifest": "https://raw.githubusercontent.com/zarmstrong/fvtt-identify-items-pf2e/main/module.json",
+  "download": "https://github.com/zarmstrong/fvtt-identify-items-pf2e/releases/download/identify-items-pf2e-0.0.1/identify-items-pf2e-0.0.1.zip",
+  "license": "MIT",
+  "readme": "https://github.com/zarmstrong/fvtt-identify-items-pf2e",
+  "bugs": "https://github.com/zarmstrong/fvtt-identify-items-pf2e/issues",
+  "changelog": "https://github.com/zarmstrong/fvtt-identify-items-pf2e/blob/main/CHANGELOG.md"  
+}
