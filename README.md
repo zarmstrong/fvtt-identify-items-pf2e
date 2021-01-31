@@ -1,6 +1,6 @@
 # NOTICE - This module is not yet released
 
-[![ko-fi](https://img.shields.io/badge/-buy%20me%20a%20coffee-%23FF5E5B)](https://ko-fi.com/slate) [![patreon](https://img.shields.io/badge/-support%20me%20on%20patreon-%235C5C5C)](https://patreon.com/slatesfoundrystuff) ![GitHub all releases](https://img.shields.io/github/downloads/zarmstrong/fvtt-identify-items-pf2e/total?style=plastic) ![GitHub](https://img.shields.io/github/license/zarmstrong/fvtt-identify-items-pf2e?style=plastic)
+[![ko-fi](https://img.shields.io/badge/-buy%20me%20a%20coffee-%23FF5E5B?style=plastic)](https://ko-fi.com/slate) [![patreon](https://img.shields.io/badge/-support%20me%20on%20patreon-%235C5C5C?style=plastic)](https://patreon.com/slatesfoundrystuff) ![GitHub release (by tag)](https://img.shields.io/github/downloads/zarmstrong/fvtt-identify-items-pf2e/identify-items-pf2e-0.0.1/total?style=plastic) ![GitHub all releases](https://img.shields.io/github/downloads/zarmstrong/fvtt-identify-items-pf2e/total?style=plastic) ![GitHub](https://img.shields.io/github/license/zarmstrong/fvtt-identify-items-pf2e?style=plastic)
 
 
 # Identify Items for PF2e
